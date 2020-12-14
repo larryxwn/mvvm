@@ -1,4 +1,2 @@
 this is a.txt11111
-branch1 push
-branch2 push
-sfdfdf
+branch1 pushbranch2 push
